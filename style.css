@@ -1,0 +1,47 @@
+body{
+    font-family: 'Lobster', cursive;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/646/547/746/full-hd-1080p-nature-desktop-backgrounds-hd-1920x1200-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: yellow;
+    font-size: 50px;
+}
+.sound{
+    padding: 5px;
+    font-family: 'Abel', sans-serif;
+    background-color: seashell;
+    margin: 15px;
+    border-radius: .25rem;
+    font-weight: bold;
+}
+.keys{
+    padding: 50px;
+    margin: 50px auto;
+    text-align: center;
+    display: flex;
+}
+.key{
+    padding: 5px;
+    flex: 10%;
+}
+kbd{
+    border: 5px solid yellow;
+    font-size: 30px;
+    border-radius: .5rem;
+}
+kbd:hover{
+    font-size: 40px;
+    border: 5px solid orange;
+}
+@media screen and (max-width: 850px) {
+    .keys{
+      display: block;
+      text-align: center;
+    }
+    .sound{
+        width: 70px;
+    }
+  }
