@@ -1,12 +1,12 @@
-# :music::music: DrumKit :music::music:
+# ::notes::musical_note: DrumKit :notes::musical_note:
 
 
-## About
+## About :purple_heart:
 
 This is a Simple Drumkit built out of bordeom, to explore the world of music by Development.
 
 ##  Demo
-YOu can see the live demo ![Here](https://jyotika999.github.io/DrumKit/)
+YOu can see the live demo [Here](https://jyotika999.github.io/DrumKit/)
 
 ## Technology Used :heart:
 
@@ -15,7 +15,7 @@ YOu can see the live demo ![Here](https://jyotika999.github.io/DrumKit/)
 ![JavaScript](https://img.shields.io/badge/frontend-javascript-blue.svg?logo=javascript&style=flat-square) 
 
 ## Glad to see you here 
-Show some :heart: by Starring this repo :star:
+Show some :heart: by Starring this repo :star2::star::star2:
 
 
 ### If you need help?
