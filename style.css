@@ -1,15 +1,17 @@
-body{
+body {
     font-family: 'Lobster', cursive;
-    background-image: url(https://c4.wallpaperflare.com/wallpaper/646/547/746/full-hd-1080p-nature-desktop-backgrounds-hd-1920x1200-wallpaper-preview.jpg);
+    background-image: url(https://images.unsplash.com/photo-1607556049122-5e3874a25a1f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80);
     background-repeat: no-repeat;
     background-size: cover;
 }
-h1{
+
+h1 {
     text-align: center;
-    color: yellow;
+    color: black;
     font-size: 50px;
 }
-.sound{
+
+.sound {
     padding: 5px;
     font-family: 'Abel', sans-serif;
     background-color: seashell;
@@ -17,35 +19,41 @@ h1{
     border-radius: .25rem;
     font-weight: bold;
 }
-.keys{
+
+.keys {
     padding: 50px;
     margin: 50px auto;
     text-align: center;
     display: flex;
 }
-.key{
+
+.key {
     padding: 5px;
     flex: 10%;
 }
-kbd{
+
+kbd {
     border: 5px solid yellow;
     font-size: 30px;
     border-radius: .5rem;
 }
-.playing{
+
+.playing {
     font-size: 40px;
     border: 5px solid orange;
 }
-kbd:hover{
+
+kbd:hover {
     font-size: 40px;
     border: 5px solid orange;
 }
+
 @media screen and (max-width: 850px) {
-    .keys{
-      display: block;
-      text-align: center;
+    .keys {
+        display: block;
+        text-align: center;
     }
-    .sound{
+    .sound {
         width: 70px;
     }
-  }
+}
