@@ -10,3 +10,14 @@ window.addEventListener("keydown", function(e){
         key.childNodes[1].classList.remove('playing');
     }, 90);
 })
+
+let about = document.getElementById('contacts');
+about.addEventListener("click", function(){
+    document.getElementById('contact').style.visibility= "visible";
+    document.getElementById('btn').style.visibility = "visible";
+})
+
+document.getElementById('btn').addEventListener("click", function(){
+    document.getElementById('contact').style.visibility= "hidden";
+    this.style.visibility= "hidden";
+})

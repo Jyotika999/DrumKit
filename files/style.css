@@ -57,3 +57,25 @@ kbd:hover {
         width: 70px;
     }
 }
+#contact{
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    display: flex;
+    text-align: center;
+    visibility: hidden;
+}
+.side1, .side2{
+    width: 100px;
+    height: 200px;
+    margin: 5px;
+    padding: 20px;
+    flex: 50%;
+    text-align: center;
+}
+#btn{
+    text-align: center;
+    margin-bottom: 40px;
+    visibility: hidden;
+}
