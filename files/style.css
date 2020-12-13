@@ -48,6 +48,16 @@ kbd:hover {
     border: 5px solid orange;
 }
 
+#footer {
+    text-align: center;
+    color: yellow;
+    background-color: black;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
 @media screen and (max-width: 850px) {
     .keys {
         display: block;
@@ -56,34 +66,4 @@ kbd:hover {
     .sound {
         width: 70px;
     }
-    #contact{
-        margin: 0;
-        padding: 5px;
-    }
-    .side1, .side2{
-        width: 5%;
-        height: 150px;
-    }
-}
-#contact{
-    margin-left: 30%;
-    margin-right: 30%;
-    margin-bottom: 50px;
-    margin-top: 20px;
-    display: flex;
-    text-align: center;
-    visibility: hidden;
-}
-.side1, .side2{
-    width: 10%;
-    height: 200px;
-    margin: 5px;
-    padding: 20px;
-    flex: 50%;
-    text-align: center;
-}
-#btn{
-    text-align: center;
-    margin-bottom: 40px;
-    visibility: hidden;
 }
