@@ -6,7 +6,7 @@
 This is a Simple Drumkit built out of bordeom, to explore the world of music by Development.
 
 ##  Demo
-YOu can see the live demo [Here](https://jyotika999.github.io/DrumKit/)
+You can see the live demo [Here](https://jyotika999.github.io/DrumKit/)
 
 ## Technology Used :heart:
 
