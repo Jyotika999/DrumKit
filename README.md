@@ -15,7 +15,7 @@ You can see the live demo [Here](https://jyotika999.github.io/DrumKit/)
 * Javascript
 
 ## Glad to see you here 
-Show some :heart: by Starring this repo :star2::star::star2:
+Loved :heart: the repo show by staring :star2::star::star2:
 
 ## Contributors
 
